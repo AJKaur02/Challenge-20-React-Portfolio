@@ -8,7 +8,7 @@ const Resume = () => {
         Download the resume example <Link href="/src/assets/resume-example.pdf" download color="blue.500">here</Link>.
       </Text>
       <Box display="flex" justifyContent="center" mt={4}>
-        <Image src="/src/assets/resume-example.png" alt="Resume Example" />
+        <Image src="/assets/resume-example.png" alt="Resume Example" />
       </Box>
     </Box>
   );
